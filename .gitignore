@@ -1,9 +1,1 @@
 node_modules/
-.DS_Store
-dist/
-*.log
-temp/
-
-# Ignore everything in data/ but keep gradebook.json
-data/*
-!data/gradebook.json
